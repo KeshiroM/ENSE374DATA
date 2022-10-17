@@ -16,3 +16,8 @@ This can be a business opportunity as these problems exist with some popular mus
 Vlog:
 
 OUR YOUTUBE LINK https://www.youtube.com/watch?v=klQo--aq35Y
+
+
+Vlog 2:
+
+OUR YOUTUBE LINK https://youtu.be/p1f4x0YBNQE
