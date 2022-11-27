@@ -1,6 +1,9 @@
 # SUGGESTME MUSIC
-ENSE374 DATA GROUP REPOSITORY 
 
+________________________________________________![index](https://user-images.githubusercontent.com/99140805/204164702-2a5be74c-0258-4b0f-873a-daa4da863a2e.jpg)_________
+
+
+ENSE374 DATA GROUP REPOSITORY 
 # Project Idea:
 
 As a group, we planned to create a web-based platform which will help users/customers to find artists (specifically with a similar Genre, Artist) according to their personal interests and preference rather than just their listening history.
