@@ -13,18 +13,15 @@ This can be a business opportunity as these problems exist with some popular mus
 
 
 
-Vlog:
-
-OUR YOUTUBE LINK https://www.youtube.com/watch?v=klQo--aq35Y
-
-
-Vlog 2:
-
-OUR YOUTUBE LINK https://youtu.be/p1f4x0YBNQE
+Here is our first vlog, this covers our project update on our idea and why we're trying to solve this problem
+LINK https://www.youtube.com/watch?v=klQo--aq35Y
 
 
-Vlog 3:
+Here is our second vlog, this covers our project update on project documentation
+LINK https://youtu.be/p1f4x0YBNQE
 
-https://youtu.be/7z9W_yp90ns
+
+Here is our third vlog, this covers our project update on project architecture
+LINK https://youtu.be/7z9W_yp90ns
 
 
