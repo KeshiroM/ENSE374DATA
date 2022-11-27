@@ -2,8 +2,7 @@
 ENSE374 DATA GROUP REPOSITORY 
 
 Project Idea:
-
-Creating a web-based platform which will help users/customers to find music (specifically with a similar Genre, Artist) according to their personal interests and preference rather than user history.
+As a group, we planned to create a web-based platform which will help users/customers to find artists (specifically with a similar Genre, Artist) according to their personal interests and preference rather than just their listening history.
 
 Project background/Business Opportunity:
 
