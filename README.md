@@ -30,6 +30,9 @@ Here is our Vlog 3: This covers our project update on project architecture
 LINK https://youtu.be/7z9W_yp90ns
 
 
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. 
+
+
 
 
 
