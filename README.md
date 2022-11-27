@@ -30,8 +30,11 @@ Here is our Vlog 3: This covers our project update on project architecture
 LINK https://youtu.be/7z9W_yp90ns
 
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. 
 
+# LICENSE:
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 
