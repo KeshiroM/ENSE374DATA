@@ -9,3 +9,6 @@ LINK https://youtu.be/p1f4x0YBNQE
 Here is our Vlog 3: This covers our project update on project architecture
 
 LINK https://youtu.be/7z9W_yp90ns
+
+COMMERCIAL
+https://www.youtube.com/watch?v=_ez_PkB8nV4
