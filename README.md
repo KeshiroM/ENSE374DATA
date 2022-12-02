@@ -8,6 +8,9 @@ _____________________________![index](https://user-images.githubusercontent.com/
 
 ENSE374 DATA GROUP REPOSITORY 
 
+# Here is our commercial for SUGGESTMe Music♫
+https://www.youtube.com/watch?v=_ez_PkB8nV4
+
 # Project Idea:
 As a group, we planned to create a web-based platform which will help users/customers to find artists (specifically with a similar Genre, Artist) according to their personal interests and preference rather than just their listening history.
 
@@ -31,8 +34,6 @@ Here is our Vlog 3: This covers our project update on project architecture
 
 LINK https://youtu.be/7z9W_yp90ns
 
-# Here is our commercial for SUGGESTMe Music♫
-https://www.youtube.com/watch?v=_ez_PkB8nV4
 
 # LICENSE:
 
