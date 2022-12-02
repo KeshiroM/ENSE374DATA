@@ -2,7 +2,7 @@
 
 
 
-ENSE374 DATA GROUP REPOSITORY 
+
 _____________________________![index](https://user-images.githubusercontent.com/99140805/204164702-2a5be74c-0258-4b0f-873a-daa4da863a2e.jpg)_________
 
 
@@ -17,10 +17,12 @@ This can be a business opportunity as these problems exist with some popular mus
 
 Here is our Vlog 1: This covers our project update on our idea and why we're trying to solve this problem
 
-https://www.youtube.com/watch?v=klQo--aq35Y
+LINK https://www.youtube.com/watch?v=klQo--aq35Y
+
 Here is our Vlog 2: This covers our project update on project documentation
 
 LINK https://youtu.be/p1f4x0YBNQ
+
 Here is our Vlog 3: This covers our project update on project architecture
 
 LINK https://youtu.be/7z9W_yp90ns
